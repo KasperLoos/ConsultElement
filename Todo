@@ -1,0 +1,20 @@
+
+To do = 
+1.	Find more data
+a.	Example: https://www.businessinsider.com/top-27-startups-launched-in-2016-2016-12?op=1#grail-wants-to-develop-a-test-for-cancer-at-the-earliest-possible-stage-1
+b.	https://www.businessinsider.com/top-17-startups-launched-in-2016-2016-6
+c.	https://www.forbes.com/sites/amyfeldman/2016/10/19/next-billion-dollar-startups-2016/
+d.	https://www.forbes.com/sites/tanyaprive/2015/12/22/20-startups-to-watch-in-2016/
+idk if  this is something we do manually but: 
+            per year, we find some websites with ‘promising startups’, we create a column ‘mentioned_promising’ or something, this column has a ‘1’ if the startup is mentioned somewhere and a ‘0’ otherwise?
+
+2.	Scraping from websites: number of words? Or visitors? Or google trends for visitors?
+See what we can scrape from the website, might have to do this in batches? Example of things to look out for: number of words, …
+
+3.	Categories: Kasper is doing it
+
+4.	Finalizing model
+
+5.	Score function: Kasper
+
+6.	Finalize current features, fill in missing using KNN: Kasper
