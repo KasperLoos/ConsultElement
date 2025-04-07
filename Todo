@@ -9,7 +9,7 @@ idk if  this is something we do manually but:
             per year, we find some websites with ‘promising startups’, we create a column ‘mentioned_promising’ or something, this column has a ‘1’ if the startup is mentioned somewhere and a ‘0’ otherwise?
 
 2.	Scraping from websites: number of words? Or visitors? Or google trends for visitors?
-See what we can scrape from the website, might have to do this in batches? Example of things to look out for: number of words, …
+See what we can scrape from the website, might have to do this in batches? Example of things to look out for: number of words, number of hyperlinks on the main page, …
 
 3.	Categories: Kasper is doing it
 
@@ -18,3 +18,5 @@ See what we can scrape from the website, might have to do this in batches? Examp
 5.	Score function: Kasper
 
 6.	Finalize current features, fill in missing using KNN: Kasper
+
+7.          Fill in missing category/sector columns based on the main page (or the 'about' section?) of the website?
